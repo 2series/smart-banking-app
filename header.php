@@ -71,6 +71,7 @@ $(document).on({
 		<a class="dropdown-toggle link link--page remove-text-deco" data-toggle="dropdown" href="#">Social links
         <span class="caret"></span></a>
         <ul class="dropdown-menu">
+      <li><a class="link" href="#"><span class="c-social-media">Google</span></a></li>
 			<li><a class="link" href="#"><span class="c-social-media">Twitter</span></a></li>
 			<li><a class="link" href="#"><span class="c-social-media">LinkedIn</span></a></li>
 			<li><a class="link" href="#"><span class="c-social-media">Facebook</span></a></li>
@@ -104,6 +105,7 @@ $(document).on({
 			<a class="dropdown-toggle link link--page remove-text-deco" data-toggle="dropdown" href="#">Social links
 	        <span class="caret"></span></a>
 	        <ul class="dropdown-menu">
+	      <li><a class="link" href="#"><span class="c-social-media">Google</span></a></li> 
 				<li><a class="link" href="#"><span class="c-social-media">Twitter</span></a></li>
 				<li><a class="link" href="#"><span class="c-social-media">LinkedIn</span></a></li>
 				<li><a class="link" href="#"><span class="c-social-media">Facebook</span></a></li>

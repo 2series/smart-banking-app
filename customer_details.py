@@ -171,7 +171,7 @@ class Mail:
 		destination = user
 		text_subtype = 'html'
 		content="""\
-		<h2>Jon Snow (The Assistant)</h2> <br> \
+		<h2>Lennox (The Assistant)</h2> <br> \
 		Dear customer,<br> \
 		<p>Your passcode for registered contact number %s account is <h2>%s</h2> </p>
 			 <br> \

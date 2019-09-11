@@ -19,7 +19,7 @@ class Mail:
 		destination = email_ad
 		text_subtype = 'html'
 		content="""\
-		<b>Welcome to the Jon Snow (The Assistant)</b> <br> \
+		<b>Welcome to the Lennox (The Assistant)</b> <br> \
 		dear %s ,<br> \
 			You have registered your email address successfully <br> \
 			Your Mobile number %s <br> \

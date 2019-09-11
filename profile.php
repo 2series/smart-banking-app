@@ -119,11 +119,11 @@ check_pages(); ?>
 </form>
 </div>
 <div class="col-lg-4">
-<h2 class="c_header">Jon Snow is here!</h2>
+<h2 class="c_header">Lennox is here!</h2>
 <div class="row" style="margin-top: 20px;">
   <div class="row" style="margin: 50px;">
     <img src="images/jon-snow.jpg" alt="JonSnow" class="customImg" style="width:200px"><br/>
-    <span style="font-size:20px;">Tell me if you need a bank assistance ;)</span>
+    <span style="font-size:20px;">Tell me if you need a banking assistance ;)</span>
   </div>
   <div class="fb-messengermessageus"
     messenger_app_id="182961315923841"
@@ -159,11 +159,11 @@ check_pages(); ?>
 <div class="modal fade" id="success_modal" role="dialog">
     <div class="modal-dialog">
       <div class="modal-content">
-        <div class="modal-header"><h3>Have a great Jon day.</h3>
+        <div class="modal-header"><h3>Have a great Lennox day.</h3>
           <button type="button" class="close" data-dismiss="modal">&times;</button>
         </div>
         <div class="modal-body">
-        <div class="alert alert-success">Jon service is started</div>
+        <div class="alert alert-success">Lennox service is started</div>
         </div>
       </div>
     </div>

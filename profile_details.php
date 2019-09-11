@@ -939,11 +939,11 @@ check_pages(); ?>
 									{
 										if(bit==1)
 											{
-												$scope.success_modal_val="Jon Service activated, successfully";
+												$scope.success_modal_val="Lennox Service activated, successfully";
 											}
 										else
 											{
-												$scope.success_modal_val="Jon Service de-activated, successfully";
+												$scope.success_modal_val="Lennox Service de-activated, successfully";
 											}
 
 										$("#success_modal").modal("show");

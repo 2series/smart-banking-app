@@ -1,11 +1,11 @@
 # smart-banking-app
 
 # Minor-Project
-Smart Banking Chat Bot- This is an AI based project which uses several ML algorithms for Natural Language Understanding which identifies intent and entities from user issues and generates dialogue.
+Smart Banking Chat Bot- This is an AI based project which uses several ML algorithms for Natural Language Understanding which identifies intent and entities from user-issues and generates dialogue.
 
-This project can help Banks to add chatbot in their web-application, so that customer can ask question to chatbot to Banks without visiting to Bank.
+This project may assist Financial Institutions to add chatbot in their web-application, so customers can ask questions to the chatbot without having to visit his/her Bank.
 
-# Requirements
+>Requirements
   - Python (v3.6.3) and Libraries required for AI and Natural Language Processing(NLP)
   - Rasa Core (v0.11.12)
   - Rasa NLU (v0.13.7)
@@ -15,8 +15,9 @@ This project can help Banks to add chatbot in their web-application, so that cus
   - SQL Server 2014
   - PHP (v5.6.32)
  
-To install database with data, we have added sql file in repostory.
-To train model,
+To install database with data, we have added a SQL file in the repostory.
+
+>To train model,
   1. go to train directory
     - cd train
   2. run command to train nlu which actually understands natural langauge examples given in training_data.json which have classfied

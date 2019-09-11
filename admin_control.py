@@ -77,9 +77,9 @@ def verify_customer(userid,user,status):
 			return "-99"
 		elif bit=="-22":
 			return "-22"
-		cont="""<h1>Jon Snow</h1>,<br/><p>Your account has approved for banking and using of our services.</p>""";
+		cont="""<h1>Lennox</h1>,<br/><p>Your account has been approved for banking and use of our services.</p>""";
 	else:
-		cont="""<h1>Jon Snow</h1>,<br/><p>We are sorry to hear that</p><br/></p><p>Your account is rejected.</p>""";
+		cont="""<h1>Lennox</h1>,<br/><p>We are sorry to hear that</p><br/></p><p>Your account is rejected.</p>""";
 	conn,cursor=config.connect_to_database()
 	try:
 		cursor.execute(sql)
@@ -108,9 +108,9 @@ def verify_card_request(r_id,acc_id,status):
 			return "-99"
 		elif bit=="-22":
 			return "-22"
-		cont="""<h1>Jon Snow</h1>,<br/><p>Your card request has approved for banking and using of our services.</p>""";
+		cont="""<h1>Lennox</h1>,<br/><p>Your card request has been approved for banking and use of our services.</p>""";
 	else:
-		cont="""<h1>Jon Snow</h1>,<br/><p>We are sorry to hear that</p><br/></p><p>Your account is rejected.</p>""";
+		cont="""<h1>Lennox</h1>,<br/><p>We are sorry to hear that</p><br/></p><p>Your account is rejected.</p>""";
 	conn,cursor=config.connect_to_database()
 	try:
 		cursor.execute(sql)

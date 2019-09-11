@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <h1>
-                       Jon Snow - The Smart Banking Chatbot
+                       Lennox - The Smart Banking Chatbot
                     </h1>
                     <p>
                         Privacy Policy of https://www.facebook.com/pg/Jon-Snow-The-Smart-Banking-Chatbot-354180721992855/about/?ref=page_internal
@@ -25,25 +25,25 @@
                                 <h1>Privacy Policy</h1>
 
 
-<p>Effective date: October 23, 2018</p>
+<p>Effective date: September 11, 2019</p>
 
 
-<p>Jon Snow - The Smart Banking Chatbot ("us", "we", or "our") operates the https://www.facebook.com/pg/Jon-Snow-The-Smart-Banking-Chatbot-354180721992855/about/?ref=page_internal website (the "Service").</p>
+<p>Lennox - The Smart Banking Chatbot ("us", "we", or "our") operates the https://www.facebook.com/pg/Jon-Snow-The-Smart-Banking-Chatbot-354180721992855/about/?ref=page_internal website (the "Service").</p>
 
-<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for Jon Snow - The Smart Banking Chatbot is managed through <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">Free Privacy Policy</a>.</p>
+<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for Lennox - The Smart Banking Chatbot is managed through <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">Free Privacy Policy</a>.</p>
 
-<p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://www.facebook.com/pg/Jon-Snow-The-Smart-Banking-Chatbot-354180721992855/about/?ref=page_internal</p>
+<p>We use your data to provide and improve our Services. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://www.facebook.com/pg/Jon-Snow-The-Smart-Banking-Chatbot-354180721992855/about/?ref=page_internal</p>
 
 
 <h2>Information Collection And Use</h2>
 
-<p>We collect several different types of information for various purposes to provide and improve our Service to you.</p>
+<p>We collect several different types of information for various purposes to provide and improve our Services to you.</p>
 
 <h3>Types of Data Collected</h3>
 
 <h4>Personal Data</h4>
 
-<p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:</p>
+<p>While using our Services, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:</p>
 
 <ul>
 <li>Cookies and Usage Data</li>
@@ -81,12 +81,12 @@
 <p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
 <p>If you are located outside India and choose to provide information to us, please note that we transfer the data, including Personal Data, to India and process it there.</p>
 <p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
-<p>Jon Snow - The Smart Banking Chatbot will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
+<p>Lennox - The Smart Banking Chatbot will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
 
 <h2>Disclosure Of Data</h2>
 
 <h3>Legal Requirements</h3>
-<p>Jon Snow - The Smart Banking Chatbot may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
+<p>Lennox - The Smart Banking Chatbot may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
 <ul>
     <li>To comply with a legal obligation</li>
     <li>To protect and defend the rights or property of Jon Snow - The Smart Banking Chatbot</li>

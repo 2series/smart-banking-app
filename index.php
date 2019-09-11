@@ -63,10 +63,10 @@
             <div class="footer__col-wrap">
                 <h4 class="footer__col-title">Visit</h4>
 
-                <a class="footer__address" href="https://www.bvmengineering.ac.in" target="_blank">
+                <a class="footer__address" href="https://malastare-ai.github.io/Malastare-Artificial-Intelligence/" target="_blank">
                     <span class="footer__address-row">Jon Snow Building</span>
-                    <span class="footer__address-row">Birla Vishvakarma Mahavidyalaya Engineering College</span>
-                    <span class="footer__address-row">Anand, Gujarat, India</span>
+                    <span class="footer__address-row">Malastare AI</span>
+                    <span class="footer__address-row">Anand, Gujarat, Rihad</span>
                 </a>
 
                 <h4 class="footer__col-title footer__hide--small">New Business</h4>
@@ -109,7 +109,7 @@
             </a>
         </section>
 
-        <small class="footer__legal">© 2018 Jon Assistant. All Rights Reserved.</small>
+        <small class="footer__legal">© 2019 Lennox Assistant. All Rights Reserved.</small>
     </nav>
   </footer>
 <?php include("footer.php"); ?>
