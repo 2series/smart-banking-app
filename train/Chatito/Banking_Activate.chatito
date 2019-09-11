@@ -1,0 +1,119 @@
+%[Banking_Activate_Card]('training': '900')
+    ~[Can i?] ~[syn] ~[my?] ~[card_type] ~[card] ~[using?]
+~[syn]
+    opening
+    turn on
+    activating
+    active
+    activate
+    activation
+    on
+    initiate
+    initiating
+    begin
+    begining
+    turning on
+    1
+    setup
+    re-enabling
+    re-enable
+    enable
+~[Can i]
+    what are the ~[process] for
+    can i
+    assist ~[me?] to
+    help me to
+    get me help to
+    please help me to
+    please assist me to
+    please can you
+    can you
+~[process]
+    processes
+    steps
+    ways
+    procedures
+    procedure
+~[card_type]
+    visa
+    master
+    atm
+    bank
+    credit
+    debit
+~[using]
+    using @[using_what]
+@[using_what]
+    pin
+    pin number
+    passcode
+    pass number
+    pass num
+    atm password
+    atm Passcode
+    pin num
+    activation keys
+    active keys
+
+%[Banking_Activate_Card]('training': '500')
+    ~[can you?] ~[please?] ~[verb] ~[me?] ~[my?] ~[intent]
+    ~[please?] ~[can you?] help me to ~[verb] ~[me?] ~[my?] ~[intent]
+    ~[please?] assist ~[me?] to ~[verb] ~[me?] ~[my?] ~[intent]
+    How can i be ~[verb_1] ~[intent]?
+~[card]
+    ~[card_type?] card
+~[card_type]
+    visa
+    master
+    atm
+    bank
+    credit
+    debit
+~[intent]
+    ~[card] ~[active]
+~[active]
+    opened
+    turned on
+    activating
+    active
+    activated
+    activation
+    on
+    initiated
+    initiating
+    begun
+    begining
+    turning on
+    1
+    setup
+    re-enabling
+    re-enabled
+    enabled
+~[verb]
+    find
+    check
+    search
+    get
+    give
+    provide
+    show
+    display
+    obtain
+    prepare
+    overcome
+    catch
+    come with
+~[verb_1]
+    checked
+    viewed
+    found
+    displayed
+    showed
+    searched
+    got
+    provided
+    obtained
+    prepared
+    overcame
+    caught
+    came with
