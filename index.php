@@ -28,7 +28,7 @@
 
               <div class="showcase__text landscape right shuffle shuffled">
     <span class="showcase__eyebrow">Lennox Assistant</span>
-    <h3 class="showcase__header">Unleashing web application for <br> AI Chatbot</h3>
+    <h3 class="showcase__header">Web Application For <br> AI</h3>
 
 	</div>
         </article>
@@ -38,7 +38,7 @@
     <nav class="footer__nav shuffle shuffled">
         <section class="footer__col footer__col--intro">
             <a class="footer__logo" href="/" data-footer-link="1">
-             <img src="images/jonsnow.png" alt="Lennox" width="150px"/>
+             <img src="images/ai.png" alt="Lennox" width="150px"/>
             </a>
 
             <p class="footer__slogan">
