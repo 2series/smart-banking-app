@@ -27,7 +27,7 @@
                 </div>
 
               <div class="showcase__text landscape right shuffle shuffled">
-    <span class="showcase__eyebrow">Jon Assistant</span>
+    <span class="showcase__eyebrow">Lennox Assistant</span>
     <h3 class="showcase__header">Unleashing web application for <br> AI Chatbot</h3>
 
 	</div>
@@ -38,12 +38,12 @@
     <nav class="footer__nav shuffle shuffled">
         <section class="footer__col footer__col--intro">
             <a class="footer__logo" href="/" data-footer-link="1">
-             <img src="images/jonsnow.png" alt="Jon Snow" width="150px"/>
+             <img src="images/jonsnow.png" alt="Lennox" width="150px"/>
             </a>
 
             <p class="footer__slogan">
-                AI Chatbots are the future.
-                <strong>Be Bold.</strong>
+                Malastare AI is a team of data scientists and engineers, focused exclusively on data projects.
+                <strong>Malastare Artificial Intelligence</strong>
             </p>
         </section>
 
@@ -64,22 +64,22 @@
                 <h4 class="footer__col-title">Visit</h4>
 
                 <a class="footer__address" href="https://malastare-ai.github.io/Malastare-Artificial-Intelligence/" target="_blank">
-                    <span class="footer__address-row">Jon Snow Building</span>
-                    <span class="footer__address-row">Malastare AI</span>
-                    <span class="footer__address-row">Anand, Gujarat, Rihad</span>
+                    <span class="footer__address-row">Malastare Boulevard Road</span>
+                    <span class="footer__address-row">Malastare Artificial IntelligenceI</span>
+                    <span class="footer__address-row">Team Malastare AI</span>
                 </a>
 
                 <h4 class="footer__col-title footer__hide--small">New Business</h4>
-                <a href="mailto:tempacc2179@gmail.com" class="footer__link footer__hide--small">tempacc2179@gmail.com</a>
-                <a href="tel:7046167267" class="footer__link footer__hide--small">+91 7046 167 267</a>
+                <a href="mailto:ryder@onymail.com" class="footer__link footer__hide--small">ryder@onymail.com</a>
+                <a href="tel:1234567890" class="footer__link footer__hide--small">+91 1234567890</a>
             </div>
         </section>
 
         <section class="footer__col footer__col--mobile footer__hide--large background--active">
             <div class="footer__col-wrap">
                 <h4 class="footer__col-title">New Business</h4>
-                <a href="mailto:engage@weareenvoy.com" class="footer__link">Email us</a>
-                <a href="tel:9497354092" class="footer__link">949 735 4092</a>
+                <a href="mailto:ryder@onymail.com" class="footer__link">Email us</a>
+                <a href="tel:1234567890" class="footer__link">1234567890</a>
             </div>
         </section>
 

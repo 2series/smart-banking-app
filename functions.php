@@ -48,7 +48,7 @@ function check_pages()
 	}
 	if(isset($_SESSION['Userid']))
 	{
-		if($filename=="profile.php" || $filename=="contact.php" || $filename=="profile_details.php" || $filename=="jon_snow.php")
+		if($filename=="profile.php" || $filename=="contact.php" || $filename=="profile_details.php" || $filename=="lennox.php")
 		{
 
 		}
