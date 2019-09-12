@@ -28,7 +28,7 @@
 
               <div class="showcase__text landscape right shuffle shuffled">
     <span class="showcase__eyebrow">Lennox Assistant</span>
-    <h3 class="showcase__header">Web Application For <br> AI</h3>
+    <h3 class="showcase__header">Web Application For <br> Banking</h3>
 
 	</div>
         </article>
@@ -42,19 +42,19 @@
             </a>
 
             <p class="footer__slogan">
-                Malastare AI is a team of data scientists and engineers, focused exclusively on data projects.
+                
                 <strong>Malastare Artificial Intelligence</strong>
             </p>
         </section>
 
         <section class="footer__col">
             <div class="footer__col-wrap">
-              <h4 class="footer__col-title">Explore</h4>
+              <h4 class="footer__col-title">Explore Repository</h4>
 
               <div class="footer__nav-list">
                 <a href="index.php" class="footer__link" data-footer-link="1">Home</a>
-                <a href="about.php" class="footer__link" data-footer-link="2">About</a>
-                <a href="contact.php" class="footer__link" data-footer-link="3">Contact</a>
+                <a href="https://malastare-ai.github.io/Malastare-Artificial-Intelligence/" class="footer__link" data-footer-link="2">About</a>
+                <a href="https://malastare-ai.github.io/Malastare-Artificial-Intelligence/" class="footer__link" data-footer-link="3">Contact</a>
               </div>
             </div>
         </section>
@@ -69,7 +69,7 @@
                     <span class="footer__address-row">Team Malastare AI</span>
                 </a>
 
-                <h4 class="footer__col-title footer__hide--small">New Business</h4>
+                <h4 class="footer__col-title footer__hide--small">Contact</h4>
                 <a href="mailto:ryder@onymail.com" class="footer__link footer__hide--small">ryder@onymail.com</a>
                 <a href="tel:1234567890" class="footer__link footer__hide--small">+91 1234567890</a>
             </div>
@@ -77,7 +77,7 @@
 
         <section class="footer__col footer__col--mobile footer__hide--large background--active">
             <div class="footer__col-wrap">
-                <h4 class="footer__col-title">New Business</h4>
+                <h4 class="footer__col-title">Contact</h4>
                 <a href="mailto:ryder@onymail.com" class="footer__link">Email us</a>
                 <a href="tel:1234567890" class="footer__link">1234567890</a>
             </div>
@@ -101,10 +101,9 @@
 
         <section class="footer__col footer__col--next">
             <a href="about.php" class="footer__btn" data-footer-link="2">
-                <span>Next: About</span>
-
+                <span>About</span>
                 <div class="footer__btn-line">
-                    <div class="footer__btn-line-inner"></div>
+                    <div href="https://malastare-ai.github.io/Malastare-Artificial-Intelligence/" class="footer__btn-line-inner"></div>
                 </div>
             </a>
         </section>
