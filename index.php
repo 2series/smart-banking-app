@@ -14,7 +14,7 @@
                             <p class="showcase__legal"></p>
                         <p class="showcase__copy">When it comes to the possibilities and possible perils of artificial intelligence (AI), learning and reasoning by machines without the intervention of humans, there are lots of opinions out there. Only time will tell which one of these quotes will be the closest to our future reality</p>
                             <ul class="showcase__tags">
-                                            <li class="showcase__tag">Web App</li>
+                                            <li class="showcase__tag">Banking Chatbot App</li>
                                             <li class="showcase__tag">Experimental R&amp;D</li>
                                     </ul>                     </div>     </div> </div>
               <div class="showcase__video showcase__video--landscape">
@@ -43,7 +43,7 @@
 
             <p class="footer__slogan">
                 
-                <strong>Malastare Artificial Intelligence</strong>
+                <strong></strong>
             </p>
         </section>
 

@@ -28,11 +28,11 @@
 <p>Effective date: September 11, 2019</p>
 
 
-<p>Lennox - The Smart Banking Chatbot ("us", "we", or "our") operates the https://www.facebook.com/pg/Jon-Snow-The-Smart-Banking-Chatbot-354180721992855/about/?ref=page_internal website (the "Service").</p>
+<p>Lennox - The Smart Banking Chatbot ("us", "we", or "our") operates the https://malastare-ai.github.io/Malastare-Artificial-Intelligence/ website (the "Service").</p>
 
 <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for Lennox - The Smart Banking Chatbot is managed through <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">Free Privacy Policy</a>.</p>
 
-<p>We use your data to provide and improve our Services. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://www.facebook.com/pg/Jon-Snow-The-Smart-Banking-Chatbot-354180721992855/about/?ref=page_internal</p>
+<p>We use your data to provide and improve our Services. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://malastare-ai.github.io/Malastare-Artificial-Intelligence/</p>
 
 
 <h2>Information Collection And Use</h2>
@@ -66,7 +66,7 @@
 
 <h2>Use of Data</h2>
 
-<p>Jon Snow - The Smart Banking Chatbot uses the collected data for various purposes:</p>
+<p>Malastare AI - The Smart Banking Chatbot uses the collected data for various purposes:</p>
 <ul>
     <li>To provide and maintain the Service</li>
     <li>To notify you about changes to our Service</li>
@@ -89,7 +89,7 @@
 <p>Lennox - The Smart Banking Chatbot may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
 <ul>
     <li>To comply with a legal obligation</li>
-    <li>To protect and defend the rights or property of Jon Snow - The Smart Banking Chatbot</li>
+    <li>To protect and defend the rights or property of Malastare AI - The Smart Banking Chatbot</li>
     <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
     <li>To protect the personal safety of users of the Service or the public</li>
     <li>To protect against legal liability</li>
@@ -123,9 +123,9 @@
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-        <li>By email: brijeshlakkad22@gmail.com</li>
+        <li>By email: ryder@onymail.com</li>
 
-        <li>By phone number: +917046167267</li>
+        <li>By phone number: +91 1234567890</li>
         </ul>                            </div>
 
                 </div>
