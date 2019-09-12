@@ -2,7 +2,7 @@
 
 <div class="container well login_block" align="center">
 	<div class="row">
-		<div><caption><a href="index.php"><a href="index.php"><img src="images/jonsnow.png" class="img-responsive" style="margin-top:10px;width:250px;height:60px;float:center;filter:drop-shadow(0px 0px 3px #ffffff);"/></a></caption></div>
+		<div><caption><a href="index.php"><a href="index.php"><img src="images/ai.png" class="img-responsive" style="margin-top:10px;width:250px;height:60px;float:center;filter:drop-shadow(0px 0px 3px #ffffff);"/></a></caption></div>
 	</div>
 	<div class="row">
 		<form ng-app="myapp" ng-controller="BrijController" name="myForm" method="post" novalidate>

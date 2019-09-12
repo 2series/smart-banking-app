@@ -22,7 +22,7 @@
 			<td><textarea class="form-control" name="f_text" placeholder="Enter feedback here...." ng-model="f_text" cols="40" rows="10" required></textarea></td>
 			<td>
 			<span style="color:red" id="f_text" ng-show="feedback.f_text.$dirty && feedback.f_text.$invalid">
-			<span ng-show="feedback.f_text.$error.required">Enter characters less than 50</span>
+			<span ng-show="feedback.f_text.$error.required">Enter characters less than 100</span>
 			</span>
 			</td>
 			</tr>
@@ -54,7 +54,7 @@
           <button type="button" class="close" data-dismiss="modal">&times;</button>
         </div>
         <div class="modal-body">
-        <div class="alert alert-danger">Sorry, we are facing problem. Try again after a few minutes.</div>
+        <div class="alert alert-danger">Sorry, we are facing problem. Try again after a few seconds.</div>
         </div>
       </div>
     </div>
