@@ -1,7 +1,8 @@
 # smart-banking-app
 ![](https://media.giphy.com/media/26zzjqiSqWzBdqU00/giphy.gif)
 
-[View app deployment]( https://smart-banking-app-api.herokuapp.com/)
+[View app deployment](https://smart-banking-app-api.herokuapp.com/)
+
 Smart Banking Chat Bot- This is an AI based project which uses several ML algorithms for Natural Language Understanding which identifies intent and entities from user-issues and generates dialogue.
 
 This project may assist Financial Institutions to add chatbot in their web-application, so customers can ask questions to the chatbot without having to visit his/her Bank.
