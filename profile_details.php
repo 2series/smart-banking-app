@@ -340,7 +340,7 @@ check_pages(); ?>
           <button type="button" class="close" data-dismiss="modal">&times;</button>
         </div>
         <div class="modal-body">
-        <div class="alert alert-danger">Please, try again after few minutes</div>
+        <div class="alert alert-danger">Please, try again after few minutes. Thank you.</div>
         </div>
       </div>
     </div>
@@ -389,7 +389,7 @@ check_pages(); ?>
 	var myApp = angular.module("myapp", []);
 
 	myApp.controller("BrijController", function($scope,$http) {
-		$scope.notice_to_ask_jon="You can always ask Jon Snow to do this work";
+		$scope.notice_to_ask_lennox="You can always ask Lennox to do this work";
 		$scope.genderOptions = [
 				"Male","Female","Other"
 			];
@@ -473,7 +473,7 @@ check_pages(); ?>
 		var set_val_jon=function(val){
 			$scope.jon= val;
 		};
-		$scope.get_any_value("jon",userid,set_val_jon);
+		$scope.get_any_value("lennox",userid,set_val_jon);
 		var set_val_created_time=function(val){
 			$scope.created_time= val;
 		};
@@ -1001,9 +1001,9 @@ check_pages(); ?>
 								if(flag!="-99")
 									{
 										if(value=="card")
-											$scope.success_modal_val="Request has made, successfully (You will receive card in one or two working days)";
+											$scope.success_modal_val="Request has made, successfully (You'll receive your card in one or two working days)";
 										else
-											$scope.success_modal_val="Request has made, successfully (You will receive information in one or two working days)";
+											$scope.success_modal_val="Request has made, successfully (You'll receive information in one or two working days)";
 										$("#success_modal").modal("show");
 										$(document).ajaxStop(function(){
 										setTimeout(function(){

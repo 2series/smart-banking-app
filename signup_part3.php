@@ -9,7 +9,7 @@ $username=trim($_COOKIE["Username"]);
 <center>
 <div class="container well login_block" align="center">
 	<div class="row center-block ">
-		<div><caption><a href="#"><img src="images/jonsnow.png" class="img-responsive" style="margin-top:10px;width:250px;height:60px;float:center;filter:drop-shadow(0px 0px 3px #ffffff);"/></a></caption></div>
+		<div><caption><a href="#"><img src="images/lennox.png" class="img-responsive" style="margin-top:10px;width:250px;height:60px;float:center;filter:drop-shadow(0px 0px 3px #ffffff);"/></a></caption></div>
 	</div>
 	<div class="row">
 <form name="i_form" method="post" enctype="multipart/form-data" action="file_upload_img.php">

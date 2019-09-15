@@ -2,13 +2,13 @@
 <body>
 <div class="container well login_block" align="center">
 	<div class="row center-block ">
-		<div><caption><a href="index.php"><img src="images/jonsnow.png" class="img-responsive" style="margin-top:10px;width:250px;height:60px;float:center;filter:drop-shadow(0px 0px 3px #ffffff);"/></a></caption></div>
+		<div><caption><a href="index.php"><img src="images/lennox.png" class="img-responsive" style="margin-top:10px;width:250px;height:60px;float:center;filter:drop-shadow(0px 0px 3px #ffffff);"/></a></caption></div>
 	</div>
 	<div class="row" id="brij">
 		<form ng-app="myapp" ng-controller="BrijController" name="myForm"  novalidate>
 		<br/>
 			<div class="row">
-			<span class="jon_header">Account details</span>
+			<span class="lennox_header">Account details</span>
 			<hr style='background-color:#878787;width: 100px;height: 3px;'/>
 			</div>
 			<table class="myTable">
@@ -131,7 +131,7 @@
 			<div class="row">
 			<br/>
 			<br/>
-			<span class="jon_header">Address details</span>
+			<span class="lennox_header">Address details</span>
 			<hr style='background-color:#878787;width: 100px;height: 3px;'/>
 			</div>
 			<table class="myTable">
@@ -213,7 +213,7 @@
 			<table class="myTable">
 			<tr>
 			<td><input type="submit" onClick="check_details()" id="submit_btn" value="Submit" class="btn btn-primary" ng-disabled="myForm.s_user.$invalid ||  myForm.s_email.$invalid ||  myForm.s_password.$invalid ||  myForm.s_cpassword.$invalid || myForm.s_mobile.$invalid || myForm.s_fname.$invalid ||   myForm.s_lname.$invalid || myForm.s_middlename.$invalid || myForm.gender.$invalid || myForm.s_dob.$invalid || myForm.s_postaladd.$invalid || myForm.s_permadd.$invalid || myForm.s_city.$invalid || myForm.s_state.$invalid || myForm.s_country.$invalid || myForm.s_pincode.$invalid" /></td>
-			<td id="status"><img src="images/small_loader.gif" id="spinner" style="height:30px;width:30px;" alt="Loading" /></td>
+			<td id="status"><img src="images/https://media.giphy.com/media/z3fCgfPq3tHW0/giphy.gif" id="spinner" style="height:30px;width:30px;" alt="Loading" /></td>
 			<td></td>
 			</tr>
 			<tr>

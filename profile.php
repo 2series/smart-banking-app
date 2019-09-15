@@ -109,7 +109,7 @@ check_pages(); ?>
 			<tr><td><span style="color:black;font-size:15px;" ng-show="transactionForm.amount.$dirty && transactionForm.amount.$invalid">
 			<span ng-show="transactionForm.amount.$error.required">Amount is required</span>
 			<span ng-show="!transactionForm.amount.$error.required && transactionForm.amount.$error.amountvalid">Enter valid amount</span>
-			<span ng-show="!transactionForm.amount.$error.required && transactionForm.amount.$error.amountrangevalid && !transactionForm.amount.$error.amountvalid">Enter amount less than 50,000 Rs.</span>
+			<span ng-show="!transactionForm.amount.$error.required && transactionForm.amount.$error.amountrangevalid && !transactionForm.amount.$error.amountvalid">Enter amount less than 50,000.</span>
 		</span></td></tr>
 	</table>
 		</div><br/><div class="downArrow bounce">
@@ -122,7 +122,7 @@ check_pages(); ?>
 <h2 class="c_header">Lennox is here!</h2>
 <div class="row" style="margin-top: 20px;">
   <div class="row" style="margin: 50px;">
-    <img src="images/jon-snow.jpg" alt="JonSnow" class="customImg" style="width:200px"><br/>
+    <img src="images/l2.png" alt="Lexxon" class="customImg" style="width:200px"><br/>
     <span style="font-size:20px;">Tell me if you need a banking assistance ;)</span>
   </div>
   <div class="fb-messengermessageus"
@@ -188,7 +188,7 @@ user="<?php echo $_SESSION[Userid]; ?>";
 myApp.controller("BrijController", function($scope,$http,$sce) {
 	$scope.user="<?php echo $_SESSION[Userid]; ?>";
   $scope.header_of_passbook="Passbook";
-	$scope.transaction_state_display="Send Money to";
+	$scope.transaction_state_display="Send money to";
 	$scope.show_acc_name="";
 	$scope.acc_num_style = {
 		"border-width":"1.45px"
@@ -222,7 +222,7 @@ myApp.controller("BrijController", function($scope,$http,$sce) {
   {
     if($scope.last_trans_num<$scope.get_trans_num)
     {
-      $scope.success_modal_val=$sce.trustAsHtml("<b>You have reached maximum limit of transactions</b>");
+      $scope.success_modal_val=$sce.trustAsHtml("<b>You have reached your maximum limit of transactions</b>");
       $("#success_modal_scope").modal("show");
       return;
     }
@@ -286,11 +286,11 @@ myApp.controller("BrijController", function($scope,$http,$sce) {
 										$("#success_modal_scope").modal("show");
 									}
 									else {
-                      $scope.error_modal_val="Please, try again after few minutes";
+                      $scope.error_modal_val="Please, try again after a few minutes. Thank you.";
 											$("#error_modal").modal("show");
 									}
 								}, function myError(response) {
-                  $scope.error_modal_val="Please, try again after few minutes";
+                  $scope.error_modal_val="Please, try again after a few minutes. Thank you.";
 									$("#error_modal").modal("show");
 								});
 					};
@@ -359,15 +359,15 @@ $(document).ready(function(){
 					$(document).ajaxStop(function(){
 						if(data==0)
 							{
-								$("#ask_question").addClass("stopped").html("Start Jon service").removeAttr("href");
+								$("#ask_question").addClass("stopped").html("Start Lennox service").removeAttr("href");
 							}
 						else if(data==1)
 							{
-								$("#ask_question").addClass("started").html("Ask questions to me >>").attr("href","jon_snow.php");
+								$("#ask_question").addClass("started").html("Ask questions to me >>").attr("href","lennox.php");
 							}
 						else
 							{
-								$("#ask_question").addClass("stopped").html("We are facing problem. Try again, after a few moments");
+								$("#ask_question").addClass("stopped").html("We are facing a problem. Try again, after a few moments. Thank you.");
 							}
 
 						});

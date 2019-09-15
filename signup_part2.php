@@ -8,12 +8,12 @@ setcookie($cookie_name, $cookie_value, time() + (86400 * 30), "/");
 	?>
 <div class="container well login_block" align="center">
 	<div class="row center-block ">
-		<div><caption><a href="index.php"><img src="images/jonsnow.png" class="img-responsive" style="margin-top:10px;width:250px;height:60px;float:center;filter:drop-shadow(0px 0px 3px #ffffff);"/></a></caption></div>
+		<div><caption><a href="index.php"><img src="images/lennox.png" class="img-responsive" style="margin-top:10px;width:250px;height:60px;float:center;filter:drop-shadow(0px 0px 3px #ffffff);"/></a></caption></div>
 	</div>
 	<div class="row" id="brij">
 		<form ng-app="myapp" ng-controller="BrijController" name="signup2" method="post" enctype="multipart/form-data" action="file_upload.php"  novalidate>
 		<div class="row">
-			<span class="jon_header">Upload Documents</span>
+			<span class="lennox_header">Upload Documents</span>
 			<hr style='background-color:#878787;width: 100px;height: 3px;'/>
 		</div>
 		<table class="myTable">
@@ -30,7 +30,7 @@ setcookie($cookie_name, $cookie_value, time() + (86400 * 30), "/");
 			</div>
 			<tr>
 			<td><input type="submit" id="submit_btn" value="Submit" class="btn btn-primary" ng-disabled="" /></td>
-			<td id="status"><img src="images/small_loader.gif" id="spinner" style="height:30px;width:30px;" alt="Loading" /></td>
+			<td id="status"><img src="images/https://media.giphy.com/media/z3fCgfPq3tHW0/giphy.gif" id="spinner" style="height:30px;width:30px;" alt="Loading" /></td>
 			<td></td>
 			</tr>
 		</table>

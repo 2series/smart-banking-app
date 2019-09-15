@@ -38,7 +38,7 @@
     <nav class="footer__nav shuffle shuffled">
         <section class="footer__col footer__col--intro">
             <a class="footer__logo" href="/" data-footer-link="1">
-             <img src="images/ai.png" alt="Lennox" width="150px"/>
+             <img src="images/ai.png" alt="Lennox" width="250px"/>
             </a>
 
             <p class="footer__slogan">
