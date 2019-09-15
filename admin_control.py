@@ -69,7 +69,7 @@ def verify_customer(userid,user,status):
 	sql="update customers SET hasAcc='%s' where cid='%s'"%(status,userid)
 	if type(status)!=int:
 		status=int(status)
-	sub="Verification of your Jon account"
+	sub="Verification of your Ryder account"
 	if status==1:
 		bit=create_bank_account_details(userid)
 		bit=str(bit)

@@ -348,7 +348,7 @@ check_pages(); ?>
 <div class="modal fade" id="view_balance_modal" role="dialog">
     <div class="modal-dialog">
       <div class="modal-content">
-        <div class="modal-header"><small>{{notice_to_ask_jon}}</small><br/><button type="button" class="close" data-dismiss="modal">&times;</button><h3>Enter passcode to see balance:</h3>
+        <div class="modal-header"><small>{{notice_to_ask_lennox}}</small><br/><button type="button" class="close" data-dismiss="modal">&times;</button><h3>Enter passcode to see balance:</h3>
         </div>
         <div class="modal-body">
         <div class="row">
@@ -366,7 +366,7 @@ check_pages(); ?>
 <div class="modal fade" id="open_change_passcode_modal" role="dialog">
     <div class="modal-dialog">
       <div class="modal-content">
-        <div class="modal-header"><small>{{notice_to_ask_jon}}</small><br/><button type="button" class="close" data-dismiss="modal">&times;</button><h3>Enter passcode to see balance:</h3>
+        <div class="modal-header"><small>{{notice_to_ask_lennox}}</small><br/><button type="button" class="close" data-dismiss="modal">&times;</button><h3>Enter passcode to see balance:</h3>
         </div>
         <div class="modal-body">
         <div class="row">

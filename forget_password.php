@@ -15,7 +15,7 @@ for ($i = 0; $i < 6; $i++) {
 ?>
 <div class="container well login_block" align="center">
 	<div class="row">
-		<div><caption><a href="index.php"><a href="index.php"><img src="images/jonsnow.png" class="img-responsive" style="margin-top:10px;width:250px;height:60px;float:center;filter:drop-shadow(0px 0px 3px #ffffff);"/></a></caption></div>
+		<div><caption><a href="index.php"><a href="index.php"><img src="images/lennox.png" class="img-responsive" style="margin-top:10px;width:250px;height:60px;float:center;filter:drop-shadow(0px 0px 3px #ffffff);"/></a></caption></div>
 	</div>
 <div class="row" ng-app="myapp" ng-controller="BrijController">
 <div id="email_sender">

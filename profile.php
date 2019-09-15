@@ -109,7 +109,7 @@ check_pages(); ?>
 			<tr><td><span style="color:black;font-size:15px;" ng-show="transactionForm.amount.$dirty && transactionForm.amount.$invalid">
 			<span ng-show="transactionForm.amount.$error.required">Amount is required</span>
 			<span ng-show="!transactionForm.amount.$error.required && transactionForm.amount.$error.amountvalid">Enter valid amount</span>
-			<span ng-show="!transactionForm.amount.$error.required && transactionForm.amount.$error.amountrangevalid && !transactionForm.amount.$error.amountvalid">Enter amount less than 50,000.</span>
+			<span ng-show="!transactionForm.amount.$error.required && transactionForm.amount.$error.amountrangevalid && !transactionForm.amount.$error.amountvalid">Enter amount less than 5,000.</span>
 		</span></td></tr>
 	</table>
 		</div><br/><div class="downArrow bounce">
@@ -258,7 +258,7 @@ myApp.controller("BrijController", function($scope,$http,$sce) {
 				"border-width":"1.45px"
 							};
 			$scope.check_amount = function(value) {
-							if(patt_amount.test(value) && value <= 50000 && value>0) {
+							if(patt_amount.test(value) && value <= 5000 && value>0) {
 									$scope.amount_style["border-color"] = "green";
 							}else {
 									$scope.amount_style["border-color"] = "red";
@@ -335,7 +335,7 @@ myApp.directive('amountDir', function() {
 							}else {
 								mCtrl.$setValidity('amountvalid', false);
 							}
-							if(value <= 50000 && value>0)
+							if(value <= 5000 && value>0)
 							{
 								mCtrl.$setValidity('amountrangevalid', true);
 						}else {

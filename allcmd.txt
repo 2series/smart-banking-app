@@ -1,7 +1,7 @@
 1.git init
 2.git remote add origin https.....
-3.git config --global user.email "sanket864@github.com"
-4.git config --global user.name "sanket864"
+3.git config --global user.email "ryder@onymail.com"
+4.git config --global user.name "ryderT"
 5.git status
 6.git add -A      or     git add "f1.ext","f2.ext"
 7.git commit -m "changes name"
